@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.single-tab-item {
+  margin-right: 32px;
+  margin-bottom: 0px;
+}
+
+.tab {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #7b8794;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border-bottom: 2px solid;
+  border-color: #7b8794;
+}
+
+.select-button {
+  margin-bottom: 5px;
+  color: #2563eb;
+  border-bottom-width: 5px;
+  border-color: #2563eb;
+}

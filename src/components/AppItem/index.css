@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-of-app {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  align-items: center;
+  margin: 20px;
+  width: 15%;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.app-img {
+  width: 70px;
+  height: 70px;
+}
+
+.app-text {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: bold;
+}
